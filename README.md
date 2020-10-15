@@ -1,10 +1,10 @@
-### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Ramzi Hijjawi - aka [Ramzi][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Student, Currently studying in Uganda. Preparing for the IB DP!
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working on a useful prohect for my international school!
+- 🌱 I’m currently learning Python and a few other languages
+- 👯 I’m looking to collaborate with others to create a safer internet
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and listen music.
 
