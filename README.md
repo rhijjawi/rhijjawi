@@ -2,7 +2,7 @@
 
 ## I'm a Student, Currently studying in Uganda. Preparing for the IB DP!
 
-- 🔭 I’m currently working on a useful prohect for my international school!
+- 🔭 I’m currently working on a useful project for my international school!
 - 🌱 I’m currently learning Python and a few other languages
 - 👯 I’m looking to collaborate with others to create a safer internet
 - 🥅 2020 Goals: Contribute more to Open Source projects
