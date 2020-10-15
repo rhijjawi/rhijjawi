@@ -12,7 +12,6 @@
 
 
 [<img align="left" alt="rhijjawi" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rhijjawi" | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="rhijjawi" | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="rhijjawi" | Whatsapp" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="rhijjawi" | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -125,7 +124,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 [website]: http://isunetwork.net
 [linkedin]: https://www.linkedin.com/in/ramzihijjawi
-[stackoverflow]: https://stackoverflow.com/users/8629258/sathananthan-sabesan
 [gmail]: mailto:ramzihijjawi@gmail.com
 [whatsapp]:https://wa.me/+256795292685
 [instagram]: https://www.instagram.com/the_chancellow_aint_dead
