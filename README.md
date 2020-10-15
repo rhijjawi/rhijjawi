@@ -1,4 +1,4 @@
-### Hi there, I'm Ramzi Hijjawi - aka [Ramzi][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm R. Hijjawi - aka [Ramzi][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 ## I'm a Student, Currently studying in Uganda. Preparing for the IB DP! This is a portfolio of my code repositories. 
 
