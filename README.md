@@ -1,6 +1,6 @@
 ### Hi there, I'm Ramzi Hijjawi - aka [Ramzi][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I'm a Student, Currently studying in Uganda. Preparing for the IB DP!
+## I'm a Student, Currently studying in Uganda. Preparing for the IB DP! This is a portfolio of my code repositories. 
 
 - 🔭 I’m currently working on a useful project for my international school!
 - 🌱 I’m currently learning Python and a few other languages
