@@ -122,7 +122,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ---
 
 
-[website]: http://isunetwork.net
+[website]: http://netsafe.dev
 [linkedin]: https://www.linkedin.com/in/ramzihijjawi
 [gmail]: mailto:ramzihijjawi@gmail.com
 [whatsapp]:https://wa.me/+256795292685
