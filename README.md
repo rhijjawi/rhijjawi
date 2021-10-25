@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning Python and a few other languages
 - 👯 I’m looking to collaborate with others to create a safer internet
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and listen music.
+- 🥅 2021 Goals: Develop more projects using Python.
+- ⚡ Fun fact: I love to listen music.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
@@ -103,7 +104,7 @@
 
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+_NOTE: Top languages does not indicate my skill level or something like that, it's a metric of which languages I have the most code using, on Github_
 
 <a href="https://github-readme-stats.rhijjawi.vercel.app/api?username=rhijjawi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="Ramzi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhijjawi&show_icons=true" /></a>
