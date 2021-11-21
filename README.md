@@ -9,20 +9,6 @@
 - 🥅 2021 Goals: Develop more projects using Python.
 - ⚡ Fun fact: I love to listen music.
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-
-[<img align="left" alt="rhijjawi | Website" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rhijjawi | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="rhijjawi | Whatsapp" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="rhijjawi | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
-</p>
-
 ---
 
 ### Languages and Tools:
