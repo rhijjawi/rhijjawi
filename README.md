@@ -90,10 +90,13 @@
 
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a metric of which languages I have the most code using, on Github_
+
 
 <a href="https://github-readme-stats.rhijjawi.vercel.app/api?username=rhijjawi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="Ramzi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhijjawi&show_icons=true" /></a>
+<br>
+<br>
+<br>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rhijjawi&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhijjawi&layout=compact&theme=radical" />
