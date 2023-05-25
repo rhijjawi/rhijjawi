@@ -8,7 +8,7 @@
 - 🥅 2020 Goal: Contribute more to Open Source projects
 - 🥅 2021 Goal: Develop more projects using Python. 
 - 🥅 2022 Goal: Reach at least 40 good quality repos that serve a valid purpose
-- 🥅 2023 Goal: Graduate and study in Canada!
+- 🥅 2023 Goal: Graduate and study Computer Science in Europe!
 ---
 
 ### Languages and Tools:
