@@ -1,14 +1,15 @@
-### Hi there, I'm rhijjawi - aka [Ramzi][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm rhijjawi - aka [Ramzi][website] <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 
-## Preparing for the IB DP! This is a portfolio of my code repositories. 
-
-- 🔭 I’m currently working on a useful projects for my international school!
-- 🌱 I’m currently learning Python and a few other languages
+## This is a (messy) portfolio of my code repositories. 
+📍 - Berlin, Germany
+- 🔭 I’m currently working on a useful projects for the students around me, and across the world!
+- 🌱 I’m currently React/Next.js, Solana, and Go, along with other languages
 - 👯 I’m looking to collaborate with others to create a better digital envinronment.
 - 🥅 2020 Goal: Contribute more to Open Source projects
 - 🥅 2021 Goal: Develop more projects using Python. 
 - 🥅 2022 Goal: Reach at least 40 good quality repos that serve a valid purpose
 - 🥅 2023 Goal: Graduate and study Computer Science in Europe!
+- 🥅 2024 Goal: Launch a successful startup and create tools that benefit everyone :D
 ---
 
 ### Languages and Tools:
