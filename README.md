@@ -77,8 +77,6 @@
 ---
 
 
-[website]: http://netsafe.dev
+[website]: http://ramzihijjawi.me
 [linkedin]: https://www.linkedin.com/in/ramzihijjawi
-[gmail]: mailto:ramzihijjawi@gmail.com
-[whatsapp]:https://wa.me/+256795292685
-[instagram]: https://www.instagram.com/the_chancellow_aint_dead
+[gmail]: mailto:business@ramzihijjawi.me
